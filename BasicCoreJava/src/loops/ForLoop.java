@@ -8,6 +8,13 @@ public class ForLoop {
 		{
 			System.out.println(i);
 		}
+		
+		int arr[]= {12,24,33,45};
+		for(int j:arr)
+		{
+			System.out.println(j);
+		}
+		
 		// TODO Auto-generated method stub
 
 	}

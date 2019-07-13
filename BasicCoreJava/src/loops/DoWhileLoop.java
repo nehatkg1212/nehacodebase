@@ -9,7 +9,7 @@ public class DoWhileLoop {
 		{
 			System.out.println(a);
 			a--;
-			}while(a>1);
+			}while(a>0);
 		
 		// TODO Auto-generated method stub
 
